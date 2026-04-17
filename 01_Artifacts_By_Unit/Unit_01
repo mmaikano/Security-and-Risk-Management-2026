@@ -1,1 +1,39 @@
-# Unit 01
+# Unit 01: Introduction to Security and Risk Management
+
+## 1. Overview
+
+This artefact represents a collaborative discussion submitted in Unit 1, focusing on ethical and societal risks associated with data-driven technologies. The task required critical engagement with academic literature to analyse emrging risksn in the information systems. Particularly in relation to fairness, accountability and transparency.
+
+## 2. Description of Work
+
+The discussion explored key risks associated with algorithmic decision-making systems including:
+- Algorithmic bias and its impact on marginalized groups.
+- Lack of transparency in "black box" systems.
+- Risk of misinterpretation of data in sensitive contexts.
+- The importance of participatory design and ethical safeguards.
+
+The analysis was supported by academic sources, including Barocas and Selbst (2016) , O'Neil (2016) and Pasquale (2015), to critically evaluate how technological systems can reinforce structural inequalities if not properly governed.
+
+## 3. Application of Learning Outcomes 
+
+- Identification and Analysis of Security Risks
+This works demonstrates the ability to identify non-technical risks, including algorithmic bias and system vulnerabilities in data driven systems, highlighting how such risks can impact fairness and accountability.
+
+-Information Gathering and Synthesis
+Multiple academic sources were synthesized to construct a criticalargument regarding the societal implications of algorithmic systems, demontsrating the ability to integrate diverse perspectives.
+
+-Selection of Methodologies and Techniques
+While technical frameworks were not yet applied at this stage, the discussion reflects an early understanding of the importance of structured approaches.
+
+-Legal, Ethical and Professional Considerations
+This artefact strongly addresses ethical concerns, including data privacy, fairness and accountability. Emphasizing the professional responsibility to design systems that do not reinforce inequality.
+
+## 4. Evidence
+The original discussion submission is included and supported by referenced academic literature.
+
+## 5. Reflections
+This unit introduced me to the broader scope of security and risk management beyond purely technical vulnerabilities. Initially, my understanding was focused on system-level threats; however, this discussion highlighted the significance of ethical and societal risks, particularly those arising from algorithmic decison making.
+
+Engaging with the literature deepened my awareness of how data driven systems can unintentionally reinforce bias and inequality. This has influenced my approach to risk assessment, encouraging me to consider not only technical aspects but also human and ethical implications.
+
+This learning is directly relevant to cybersecurity practice, as professionals muct ensure systems are not only secure but also fair, transparent and accountable.
