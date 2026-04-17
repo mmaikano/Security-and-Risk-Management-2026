@@ -1,1 +1,40 @@
 # Unit 03
+
+## 1. Overview
+
+This artefact presents a summary discussion developed in Unit 3, focusing on the introduction of threat modelling and its role in security and rik management. The task required integrating knowledge from previous units, including initial analysis and peer feedback - produce a more refined and comprehensive understanding of risks in information systems.
+This unit introduced key threat modelling frameworks such as STRIDE< DREAD and explored how these approaches can be used to systematically identify and assess security threats. 
+
+## 2. Description of Work
+
+I developed a summary post that combined my initial discussion, peer feedback and newly acquired knowledge on threat modelling. The task required me to reflect on earlier work and enhance it using structured approaches to risk identification.
+
+I explored the difference between threats and vulnerabilities and how threat modelling provides a systematic way to identify potential risks within a system. I also examined different frameworks, including STRIDE for categorising threats and DREAD for asssessing risk severity.
+
+Additionally, I considered how hybrid approaches such as combining multiple frameworks can provide a more comprehensive understanding of system risks. 
+
+## 3. Application of Learning Outcomes
+
+IDENTIFICATION AND ANALYSIS OF ECURITY RISKS
+This unit strengthened my ability to identify and analyse risks using structured threat modelling techniques. I was able to move beyond general discussion to more systematic identificaton of threats.
+
+INFORMATION GATHERING AND SYNTHESIS
+I integrated knowledge from previous units, peer feedback and new learning materials to produce a more refined analysis.
+
+SELECTION OF METHODOLOGIES AND TECHNIQUES
+This unit introduced me to practical frameworks such as STRIDE - helping me understand how to select appropriate techniques depending on the context.
+
+ETHICAL, LEGAL AND PROFESSIONAL CONSIDERATIONS
+Although primarily technical, this unit reinforced the importance of resonsible risk management in protecting systems and users from harm. 
+
+## 4. Evidence
+
+A summary discussion post was done.
+
+## 5. Reflection
+
+This unit marked a significant step in my learning, as it introduced sstructured approaches to identifying and analysing security risks. Previously, my understanding of risks was more conceptual but learning about threat modelling frameworks provided practical tools to apply this knowledge.
+
+In particular, understanding frameworks such as STRIDE helped me categorize threats more effectively while DREAD introduced a method for evaluating risk severity. This has improved my ability to approach risk assessment in a more systematic and professional manner.
+
+Building on feedback from Unit 2, I was able to strengthen my analysis by incorporating more structured reasoning and clearer justification of my points. This demonstrates technical understanding and critical thinking.
