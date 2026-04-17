@@ -1,1 +1,28 @@
 # Unit 04
+
+## 1. Overview
+
+This artefact presents an analysis of threat modelling in cyber-physical systems based on Jbsir et al., (2022). The task focused on identifying system components, vulnerabilities and risk prioritisation using structured threat modelling approaches.
+
+## 2. Key Elements and Interdependencies (Q1)
+
+CPS consists of interconnected physical components, software and communication netwroks. A key insight from Jbair et al., (2022) is that risks arise not only from individual components but from their interdepenencies.
+For example, compromised sensors can affect control systems leading to physical consequences. Therefore, accurate threat modelling must capture system interactions not just isolated vulnerabilities.
+
+## 3. Attack Entry Points and Challenges (Q2)
+
+Threat modelling helps identify entry points such as network interfaces, remote access systems and vulnerable devices. However, CPS present challenges including system comlexity, limited visibility and evolving threats (Jbair et al., 2022).
+Frameworks such as STRIDE support structured threat identification.
+
+## 4. Risk Prioritisation (Q3)
+
+Risk prioritisation in CPS requires scenario-based assessment. Techniques such as DREAD enable evaluation based on impact and likelihood (Shostack, 2014).
+Jbair et al. (2022) emphasize that prioritisation must consider physical consequences, not just data loss, ensuring that critical risks are addressed first. 
+
+## 5. Reflection
+
+This unit improved my ability to apply threat modelling in complex systems. I develope a clearer understanding of how interdependencies increase risk and why structured methods are necessary for effective analysis. 
+
+This will support my approach to later risk assessments by enabling more systematic identification and prioritisation of threats. 
+
+
