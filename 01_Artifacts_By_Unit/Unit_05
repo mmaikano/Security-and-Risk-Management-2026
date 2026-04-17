@@ -1,1 +1,37 @@
 # Unit 05
+
+## 1. Overview
+
+This artefact presents an analysis of a GDPR-related case study involving the unauthorized disclosure of personal data via email obtained from the Data Protection Commission (2020). The task involved identifying the specific GDPR issue, evaluating how it was resolved and proposing mitigation strategie from an information security management perspective. 
+
+## 2. GDPR Issue Identified
+
+The selected case involves an organization that disclosed personal data to the wrong recipient due to human error. This constitutes a breach of confidentiality an integrity of personal data, violating core GDPR principles uner Article 5(1)(f) which requires personal data to be processed securely (European Union, 2016).
+
+Aditionally, the incient reflects inadequate organisational and technical safeguards, breaching Article 32 - which mandates appropriate ecurity measures such as access control, staff awareness an data handling procedures.
+
+## 3. Resolution of the Case
+
+The breach was reported to the Data Protection Commission an corrective action was required. This included
+- Notifying affected indiviuals
+- Reviewing internal data handling procedures
+- Strengthening staff training on data protection
+- Implementing stricter controls on email communication
+
+## 4. Mitigation as an Information Security Manager
+
+If this occured within my organiation, I would implement the following measures:
+
+- Introduce data loss prevention (DLP) controls to prevent misdirected emails.
+- Enforce email verification mechanisms such as recipient confirmation prompts.
+- Apply role based access controls to limit exposure of sensitive data.
+- Conduct mandatory GDPR training for all staff handling personal data.
+- Implement a formal incident response and breach notification process.
+
+These measures align with GDPR ARTICLE 32 by ensuring appropriate technical and organisational safeguards. 
+
+## 5. Reflection
+
+This case demonstrates that data breaches are often caused by human factors rather than purely technical failures. It highlights the importance of combining technical controls with staff awareness and organisational policies. 
+
+It has reinforced my understanding that effective risk management must integrate people, processes and technology - particularly when handling personal data. This insight is directly applicable to real world scenarios including business environments where data protection compliance is critical.
