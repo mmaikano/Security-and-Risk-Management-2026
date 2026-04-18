@@ -12,7 +12,7 @@ Cloud vendor lock in presents significant challenges in disaster recovery planni
 
 To mitigate these risks:
 - Adopt multi cloud or hybrid cloud strategies to reduce dependency on a single provider.
--  Use open standards and containerisation (eg Docker, Kubernetes) to improve portability.
+- Use open standards and containerisation (eg Docker, Kubernetes) to improve portability.
 - Implement data export and backup strategies independent of the vendor.
 - Carefully define exit strategies and SLA's during vendor selection. 
 
