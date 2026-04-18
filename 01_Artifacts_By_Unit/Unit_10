@@ -1,1 +1,42 @@
 # Unit 10
+
+## 1. Overview
+This unit focused on the practical implementation of disaster recovery DR solutions including the impact of RTO and RPO on system design as well as challenges such as vendor lock in and cloud security risks. 
+
+## 2. Vendor Lock In Issues and Mitigation
+
+Cloud vendor lock in presents significant challenges in disaster recovery planning. Key issues include:
+- Limited portability of data and applications due to proprietary platforms.
+- High migration costs and complexity when switching providers.
+- Dependence on vendor specific tools and architectures.
+
+To mitigate these risks:
+- Adopt multi cloud or hybrid cloud strategies to reduce dependency on a single provider.
+-  Use open standards and containerisation (eg Docker, Kubernetes) to improve portability.
+- Implement data export and backup strategies independent of the vendor.
+- Carefully define exit strategies and SLA's during vendor selection. 
+
+## 3. Cloud Security Concerns and Mitigation
+
+Modern cloud environment introduce several security risks:
+- Misconfiguration of cloud services leading to data exposure. 
+- Shared responsibility model gaps where security roles are unclear.
+- Increased attack surface due to internet facing services.
+- Dependency on third party infrastructure.
+
+Miigation strategies include: 
+- Rnforcing strng identity and access management and least priviledge principles.
+- Continous security monitoring and configuration auditing. 
+- Use of encryption for data at rest and data in transit.
+- Implementation of zero trust architecture and network segmentation.
+- Regular penetration testing and vulnerability assessments.
+
+## 4. Reflection
+
+This unit highlghetd that effective disaster recovery is not only about system availability but also about managing dependencies and security risks within cloud environmnents. 
+
+I developed a clearer understanding of how architectural decisions such as vendor selection and cloud configuration directly impact resilience. 
+
+Linking this to the Pampered Pets case stucy, it is evident that adopting cloud based solutions must be balanced with strategies to avoid lock in and ensure secure recoverable systems.
+
+Overall, this unit strengthened my ability to critically analyse and evaluate real world DR solutions and their associated risks. 
