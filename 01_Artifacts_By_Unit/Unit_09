@@ -1,1 +1,19 @@
 # Unit 09
+
+## 1. Summary
+
+Accross units 7-9, my understandng of risk management evolved from qualitative assessment to incorporating quantitative and continuity focused approaches.
+
+I moved from using structured frameworks such as NIST and STRIDE to recognising the limitations of static scoring systems like CVSS particularly their lack of organisational context. The introduction of quantitative techniques highlighted how uncertainity and likelihood can be more realisticallu represented. 
+
+This progression culminated in the application of these concepts to business continuity and disaster recovery planning where metrics such as RTO and RPO translate risk into operational impact.
+
+## 2. Reflection
+
+A key insight from these units is that effective risk management requires more than threat identification - it requires the ability to quantify, prioritise and respond to them in business context.
+
+I found that qualitative methods are useful for structuring thinking but are insufficient on their own when making decisions about resource allocation or recovery planning. Quantitative approaches provide strnger justification for decisions, particularly in scenarios involving uncertainity. 
+
+Linking this to the Pampered Pets case study, I now recognize that earlier risk assessments could be strengthened by incorporating measureable impact estimates and clearly defined recovery objectives.
+
+Overall, these units improved my ability to think beyond theoretical models and consider how risk management supports organisational resilience in practice. 
