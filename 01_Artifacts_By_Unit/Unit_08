@@ -1,1 +1,30 @@
 # Unit 08
+
+## 1. Overview
+
+This unit focused on the practical application of quantitative risk modelling techniques including Monte Carlo simulations and Bayesian approaches. The aim was to move beyond  theoretical understanding and to explore how these models could be applied to real world risk scenarios.
+
+## 2. Engagement with Learning
+
+Although i did not submit the collaborative discussion for this unit, I engaged with the materials and developed an understanding of how quantitative techniques can be used to model uncertainity and support risk based decision making. 
+
+The unit emphasized the importance of applying probailistic methods to estimate the potential outcomes - particularly in complex systems where risk cannot be fully captured using qualitative approaches alone. 
+
+## 3. Key Learning Points
+
+MONTE CARLO SIMULATION
+- Enables modeling of uncertainity by running multiple simulations to estimate a range of possible outcomes and their probabilities.
+BAYESIAN METHODS
+- Allow risk assessments to be updated dynamically as new information becomes available improving decision accuracy over time. 
+PRACTICAL APPLICATION
+- Quantitative models are particularly  useful in project planning, financial risk estimation and cybersecurity scenarios involving uncertain threat likelihoods.
+
+## 4. Application of Previous Work
+
+This unit directly builds on unit 6 and 7. While Unit 6 focused on qualitative risk identification STRIDE and Unit 7 introduced quantitatve concepts. This unit demostrates how these techniques can be applied in practice.
+
+## 5. Reflection
+
+This unit reinforced the importance of integrating qualitative and quantitative methods into cybersecurity risk management. While qualitative methods are effective for identifying  threats, quantitative models provide a stronger basis for decision making by introducing measureable and probabilistic insights.
+
+Although i did not participate in the discussion, engaging wirh the material enhanced my ability to understand how advanced modelling techniques can be applied to real world cybersecurity challenges. 
