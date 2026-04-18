@@ -38,4 +38,16 @@ DIGITALISATION RISKS (NIST FRAMEWORK)
 Based on the analysis, the following controls were prioritized:
 - Implementation of multi-factor authentication and strong password policies.
 - Use of encryption protocols such as HTTPS for data protection. 
-- Deployment of cloud 
+- Deployment of cloud security monitoring, backups and disaster recovery solutions.
+- Adoption of PCI-DSS compliant payment systems.
+- Introduction of cybersecurity policies, audits and staff training.
+
+These measures align with best practices in risk management and reduce both likelihood and impact of identified threats.
+
+## 5. Reflection
+
+This unit strengthened my ability to apply risk management frameworks in a practical, team based context. Acting as Risk Lead required translating theoretical models such as STRIDE and NIST into actionable insights.
+
+I developed a deeper understanding of how risks evolve during digital transformation, particularly the trade off between business growth and increase attack surface.
+
+This experience improved my ability to prioritise risks, justify mitigation strategies and communicate security considerations within a collaborative environment.
