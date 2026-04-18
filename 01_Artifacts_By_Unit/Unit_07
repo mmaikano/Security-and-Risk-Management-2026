@@ -1,2 +1,33 @@
 # Unit 07
-Content to be added
+
+## 1. Overview
+
+This unit introduced quantitative approaches to risk modelling, including probablistic techniques such as Monte Carlo simulations and Bayesian methods, as well as structured decision making models like AHP and TOPSIS. The focus was on moving from qualitative risk assessment toward measurable data driven risk analysis.
+
+## 2. Engagement with Learning
+
+Although i did not submit the collaborative discussion for this unit, i engaged with the core concepts and materials particularly the critique of the CommonVulnerabiity Scoring Sysytem (CVSS) and its limitations in practical risk assessment. 
+
+The discussion highlighted that CVSS, while widely adopted - often lacks contextual sensitivity and may not accurately reflect real world risk especially in dynamic environments (Wunder st al., 2024). This reinforced the importance of integrating organisational context into ris evaluation. 
+
+## 3. Key Learning Points
+
+LIMITATIONS OF CVSS
+- CVSS provides standardizedscoring but does not adequately account for the environmental or business specific factors which can lead to misprioritisation of vulnerabilities.
+VALUE OF QUANTITATIVE MODELS
+-  Techniques such as Monte Carlo simulation enable modelling of uncertainity and probabilistic risk outcomes offering a more realistic represenation of risk exposure.
+DECISION MAKING FRAMEWORKS
+- Multi criteria decision making methods support structred prioritisation of risks and controls based on multiple weighted factors. 
+
+## 4. Application of Previous Work
+
+This unit builds directly on the qualitative approached used in Unit 6 (STRIDE & NIST). While those methods effectively identify and categorize risks, quantitative techniques would enhance analysis by: 
+- Assigning probabilistic likelihoods to threats. 
+- Supporting data driven prioritisation and mitigation strategies.
+- Improving justification of security investment decisions.
+
+## Reflection
+
+This unit highlighted a critical gap between qualitative and quantitative risk assessment. While qualitative modesl are useful for initial threat identification, quantitative approaches provide greater precision and supported more informed decision making.
+
+Althouh i did not contribute to the discussion, engaging wth the material improved my understanding of how advanced modeling techniques strengthen cybersecurity risk management particularly in complex data rich environments.
