@@ -1,1 +1,41 @@
 # Unit 06
+
+## 1. Overview//\\
+
+This artefact presents a group based risk assessment conducted for the Pampered Pets case study, focusing on the organisation's transition from a manual to a digital business model. The assessment applied structured methodologies including STRIDE for threat modeling and NIST SP 800-30 for risk analysis. 
+
+## 3. My Role: Risk Lead
+
+As Risk Lead (Member 3), i was responsible for identifying, analysing and prioritising  key security risks accross both the current and proposed digital systems.
+
+My contibutions included:
+- Conducting STRIDE modelling for critical assets (eg. internal systems and WiFi infrastructure).
+- Identifying high-risk threats such as credential spoofing, information disclosure and denial of service attacks.
+- Applying risk scoring (SeverityxLikelihood) to prioritise threats.
+- Leading the development of risk mitigation strategies aligned with identified vulnerabilities.
+- Contributing to the NIST based risk assessment for the proposed digitalisation. 
+
+## 3. Risk Analysis and Key Findings
+
+The analysis identified several high-risk areas in both the current and future systems:
+
+CURRENT STATE RISKS
+- Reliance on spreadsheet based inventory systems leading to data integrity and auditability issues (Panko, 2008).
+- Lack of formal cybersecurity policies and staff training indicating low security maturity (Hadnagy, 2018).
+
+THREAT MODELLING (STRIDE)
+- SPOOFING: Credential theft enabling unauthorized system access.
+- INFORMATION DISCLOSURE: Unencrypted data at rest and in transit.
+- DENIAL OF SERVICE: Resource exhaustion and network flooding attacks.
+
+DIGITALISATION RISKS (NIST FRAMEWORK)
+- E-Commerce platform introducing risks of ddata breaches and payment fraud. 
+- Cloud based systems exposing vulnerabilities related to misconfiguration and outages.
+- Increased attack surface due to online services and digital marketing.
+
+## 4. Mitigation Strategies
+
+Based on the analysis, the following controls were prioritized:
+- Implementation of multi-factor authentication and strong password policies.
+- Use of encryption protocols such as HTTPS for data protection. 
+- Deployment of cloud 
